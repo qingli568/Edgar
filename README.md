@@ -1,4 +1,4 @@
-#EDGAR Project Summary
+EDGAR Project Summary
 
 Table of Contents
 I.	 Approach
